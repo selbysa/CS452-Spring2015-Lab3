@@ -1,3 +1,4 @@
 Sarah Selby, 2/27/15, 
 
-
+Created a 3-D shape that rotates around the y-axis with the left and right arrows, x-axis with the up and down arrows.
+A light also adds the shading to the shape.
