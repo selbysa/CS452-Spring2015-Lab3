@@ -23,19 +23,7 @@ var vertices = [
         vec4( -0.7,  0.5, -0.5, 1.0 ),
         vec4(  0.1,  0.1, -0.03, 0.5 ),
         vec4(  0.7, -0.5, -0.5, 1.0 )
-    ];
-	
-/*var lightPosition = vec4(0.5, 1.0, 0.5, 1.0 );
-var lightAmbient = vec4(0.0, 0.4, 0.6, 1.0 );
-var lightDiffuse = vec4( 0.0, 1.0, 1.0, 1.0 );
-var lightSpecular = vec4( 1.0, 1.0, 1.0, 1.0 );
-
-var materialAmbient = vec4( 0.0, 0.8, 1.0, 1.0 );
-var materialDiffuse = vec4( 0.0, 0.5, 0.5, 1.0);
-var materialSpecular = vec4( 1.0, 0.8, 1.0, 1.0 );
-var materialShininess = 100.0;*/	
-	
-	
+    ];	
 
 var lightPosition = vec4(0.0, 0.0, 0.5, 1.0 );
 var lightAmbient = vec4(0.0, 0.4, 0.6, 1.0 );
